@@ -1,4 +1,4 @@
-Olá! Eu sou o Dener Xisto da Fonseca
+Olá! Eu sou o Dener Fonseca
 
 Sou estudante de Engenharia de Software e estou focado no Desenvolvimento Full Stack, aprimorando minhas habilidades tanto no Front-End quanto no Back-End. Atualmente, estudo tecnologias como:
 
@@ -28,7 +28,7 @@ Autonomia e adaptação a novos desafios
 
 Essas habilidades têm sido fundamentais para minha transição para a programação e para minha abordagem na resolução de problemas computacionais.
 
-🌟 Interesses
+✨ Interesses
 
 Além do mundo da tecnologia, sou apaixonado por história, filosofia, literatura e nutrição. Também me interesso profundamente por preservação ambiental e proteção da fauna e flora.
 
@@ -40,15 +40,23 @@ Estou sempre aberto a conexões com profissionais de tecnologia e de outras áre
 
 Python Intermediário - Sololearn
 
-Introdução ao Python - Grupo Voitto
-
 MASP - Metodologia de Análise e Solução de Problemas - Grupo Voitto
 
-Born to be Global: Do zero ao primeiro salário em dólar trabalhando em tecnologia - DIO
+Inteligência Emocional - Conquer
+
+Fundamentos para Análise de Dados por Microsoft e LinkedIn - LinkedIn Learning
+
+Inglês para Negócios - Busuu
+
+Fundamentos da Plataforma Java - DIO
+
+ChatGPT - O Essencial - DIO
+
+Algoritmos e Lógica de Programação Essencial - Udemy
 
 
 Se quiser bater um papo, trocar experiências ou colaborar em projetos, me chame!
 
-👉 LinkedIn
-👉 GitHub
-👉 Email: seuemail@email.com
+LinkedIn: https://www.linkedin.com/in/dener-fonseca
+GitHub: https://github.com/Dener-Fonseca
+Email: darkx@hotmail.com.br
