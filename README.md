@@ -8,7 +8,6 @@ SQL | Banco de Dados
 
 Java | Python
 
-
 Busco sempre aplicar meu aprendizado na construção de projetos práticos e sólidos, visando melhorar minhas habilidades técnicas e me preparar para o mercado.
 
 🌐 Idiomas
@@ -24,7 +23,6 @@ Capacidade analítica e resolução de problemas
 Atenção aos detalhes e pensamento crítico
 
 Autonomia e adaptação a novos desafios
-
 
 Essas habilidades têm sido fundamentais para minha transição para a programação e para minha abordagem na resolução de problemas computacionais.
 
@@ -54,9 +52,10 @@ ChatGPT - O Essencial - DIO
 
 Algoritmos e Lógica de Programação Essencial - Udemy
 
-
 Se quiser bater um papo, trocar experiências ou colaborar em projetos, me chame!
 
 LinkedIn: https://www.linkedin.com/in/dener-fonseca
+
 GitHub: https://github.com/Dener-Fonseca
+
 Email: darkx@hotmail.com.br
