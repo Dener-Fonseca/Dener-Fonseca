@@ -57,7 +57,7 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ![Dener GitHub stats](https://github-readme-stats.vercel.app/api?username=Dener-Fonseca&show_icons=true&theme=tokyonight)
 
-![Dener Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Fonseca&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&border_color=2e3b4e)
+![Dener Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Fonseca&layout=compact&show_icons=true&theme=tokyonight&border_color=FFFFFF)
 
 ---
 
