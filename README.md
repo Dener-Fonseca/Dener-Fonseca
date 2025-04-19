@@ -47,9 +47,9 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ## 📬 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-Dener%20Fonseca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-fonseca)
-[![GitHub](https://img.shields.io/badge/-Dener--Fonseca-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dener-Fonseca)
-[![Email](https://img.shields.io/badge/-darkx@hotmail.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkx@hotmail.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-fonseca)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dener-Fonseca)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkx@hotmail.com.br)
 
 ---
 
