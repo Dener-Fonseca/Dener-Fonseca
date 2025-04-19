@@ -16,9 +16,9 @@ Busco sempre aplicar meu aprendizado na construção de **projetos práticos** e
 ## 🔧 Experiência e Habilidades
 Antes de ingressar na tecnologia, atuei por **quatro anos como Mecânico Industrial**, onde desenvolvi as seguintes habilidades que são essenciais para minha jornada em tecnologia:
 
-- Capacidade analítica e resolução de problemas
-- Atenção aos detalhes e pensamento crítico
-- Autonomia e adaptação a novos desafios
+- Capacidade analítica e resolução de problemas  
+- Atenção aos detalhes e pensamento crítico  
+- Autonomia e adaptação a novos desafios  
 
 Essas habilidades têm sido fundamentais para minha transição para a **programação** e minha abordagem na resolução de problemas computacionais.
 
@@ -31,22 +31,43 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 - **Nutrição**
 - **Preservação ambiental e proteção da fauna e flora**
 
-## 💬 Networking
-Estou sempre aberto a conexões com profissionais de **tecnologia** e outras áreas! Acredito que o aprendizado e o crescimento profissional acontecem por meio da troca de **experiências** e **conhecimento**.
+---
 
 ## 📚 Certificações e Aprendizados Recentes
-- **Python Intermediário** - Sololearn
-- **MASP - Metodologia de Análise e Solução de Problemas** - Grupo Voitto
-- **Inteligência Emocional** - Conquer
-- **Fundamentos para Análise de Dados** por Microsoft e LinkedIn - LinkedIn Learning
-- **Inglês para Negócios** - Busuu
-- **Fundamentos da Plataforma Java** - DIO
-- **ChatGPT - O Essencial** - DIO
-- **Algoritmos e Lógica de Programação Essencial** - Udemy
+- **Python Intermediário** - Sololearn  
+- **MASP - Metodologia de Análise e Solução de Problemas** - Grupo Voitto  
+- **Inteligência Emocional** - Conquer  
+- **Fundamentos para Análise de Dados** - Microsoft & LinkedIn  
+- **Inglês para Negócios** - Busuu  
+- **Fundamentos da Plataforma Java** - DIO  
+- **ChatGPT - O Essencial** - DIO  
+- **Algoritmos e Lógica de Programação Essencial** - Udemy  
+
+---
 
 ## 📬 Conecte-se Comigo
-**LinkedIn**: [Dener Fonseca](https://www.linkedin.com/in/dener-fonseca)  
-**GitHub**: [Dener-Fonseca](https://github.com/Dener-Fonseca)  
-**Email**: [darkx@hotmail.com.br](mailto:darkx@hotmail.com.br)
 
-Se quiser bater um papo, trocar experiências ou colaborar em projetos, me chame! 😄
+[![LinkedIn](https://img.shields.io/badge/-Dener%20Fonseca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-fonseca)
+[![GitHub](https://img.shields.io/badge/-Dener--Fonseca-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dener-Fonseca)
+[![Email](https://img.shields.io/badge/-darkx@hotmail.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkx@hotmail.com.br)
+
+---
+
+## 📊 GitHub Stats
+
+![Dener GitHub stats](https://github-readme-stats.vercel.app/api?username=Dener-Fonseca&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Tecnologias e Ferramentas
+<div style="display: inline_block"><br/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Banco de Dados" src="https://img.shields.io/badge/Banco%20de%20Dados-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
