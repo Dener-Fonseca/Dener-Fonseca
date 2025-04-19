@@ -59,9 +59,6 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ![Dener Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Fonseca&layout=compact&show_icons=true&theme=tokyonight&border_color=FFFFFF)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dener-Fonseca&custom_title=Visitor%20Counter&show_icons=false&hide_rank=true&hide=prs,issues,contribs&theme=tokyonight&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" alt="Visitor Counter"/>
-</p>
 ---
 
 ## 💻 Tecnologias e Ferramentas
