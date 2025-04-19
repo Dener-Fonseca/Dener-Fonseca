@@ -53,7 +53,7 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do meu Github
 
 ![Dener GitHub stats](https://github-readme-stats.vercel.app/api?username=Dener-Fonseca&show_icons=true&theme=tokyonight&border_color=FFFFFF)
 
