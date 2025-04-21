@@ -49,7 +49,7 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-fonseca)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dener-Fonseca)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:darkx@hotmail.com.br)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:darkx@hotmail.com.br)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/denerfonseca1995)
 ---
 
