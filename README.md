@@ -1,13 +1,14 @@
-# 👋 Olá, sou o Dener Fonseca
+# 👋 Olá, eu me chamo Dener Fonseca
 
 ## 🧑‍💻 Sobre Mim
-Sou estudante de **Engenharia de Software** e estou focado no **Desenvolvimento Full Stack**, aprimorando minhas habilidades tanto no **Front-End** quanto no **Back-End**. Atualmente, estudo as seguintes tecnologias:
+Sou estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack**, aprimorando minhas habilidades tanto em **Back-End** quanto em **Front-End**. Atualmente, possuo conhecimento e estou em constante aprendizado nas seguintes tecnologias:
 
 - **JavaScript | TypeScript | React.js | Node.js | Express.js**
-- **SQL | Banco de Dados**
-- **Java | Python**
+- **Python | Java | C# | .NET**
+- **MySQL | MongoDB | Neo4j**
 
-Busco sempre aplicar meu aprendizado na construção de **projetos práticos** e sólidos, visando melhorar minhas habilidades técnicas e me preparar para o mercado.
+
+Busco sempre aplicar meu aprendizado na construção de **projetos práticos** e sólidos, com o objetivo de aprimorar minhas habilidades técnicas e me preparar para o mercado de trabalho. Estou sempre compartilhando esses projetos por aqui e convido vocês a darem uma olhada!
 
 ## 🌐 Idiomas
 - **Inglês**: Aperfeiçoamento contínuo, com foco em fluência.
