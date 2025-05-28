@@ -71,6 +71,6 @@ Além do mundo da **tecnologia**, sou apaixonado por:
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Banco de Dados" src="https://img.shields.io/badge/Banco%20de%20Dados-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/Banco%20de%20Dados-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
