@@ -18,6 +18,7 @@ Sou estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack
   <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </div>
 
+
 Busco sempre aplicar meu aprendizado na construção de **projetos práticos** e sólidos, com o objetivo de aprimorar minhas habilidades técnicas e me preparar para o mercado de trabalho. Estou sempre compartilhando esses projetos por aqui e convido vocês a darem uma olhada!
 
 ## 🌐 Idiomas
