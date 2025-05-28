@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Dener Fonseca
 
-![Minha Imagem](./Dener-Fonseca/Eu Dener Comic Art.png)
+![Minha Imagem](Eu%20Dener%20Comic%20Art.png)
 
 </br>
 
