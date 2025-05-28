@@ -34,7 +34,7 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
   <!-- Inglês -->
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="30" style="margin-right: 10px;"/>
-    <strong style="margin-right: 10px;">INGLÊS</strong>
+    <strong style="margin-right: 10px;">  INGLÊS  </strong>
     <span style="color: #007BFF;">●●●</span>
     <span style="color: #CCC;">○</span>
   </div>
@@ -42,7 +42,7 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
   <!-- Espanhol -->
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="30" style="margin-right: 10px;"/>
-    <strong style="margin-right: 10px;">ESPANHOL</strong>
+    <strong style="margin-right: 10px;">  ESPANHOL  </strong>
     <span style="color: #007BFF;">●●●</span>
     <span style="color: #CCC;">○</span>
   </div>
@@ -50,7 +50,7 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
   <!-- Japonês -->
   <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jp.svg" width="30" style="margin-right: 10px;"/>
-    <strong style="margin-right: 10px;">JAPONÊS</strong>
+    <strong style="margin-right: 10px;">  JAPONÊS  </strong>
     <span style="color: #007BFF;">●</span>
     <span style="color: #CCC;">○○○</span>
   </div>
