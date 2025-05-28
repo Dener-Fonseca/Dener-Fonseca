@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Dener Fonseca
 
-
+</br>
 
 ## 🧑‍💻 Sobre Mim
 Sou estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack**, aprimorando minhas habilidades tanto em **Back-End** quanto em **Front-End**. Atualmente, possuo conhecimento e estou em constante aprendizado nas seguintes tecnologias:
@@ -87,6 +87,7 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dener-fonseca)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:darkx@hotmail.com.br)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/denerfonseca1995)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/denerfonseca1995)
 
 
 ## 📊 Estatísticas do meu Github
