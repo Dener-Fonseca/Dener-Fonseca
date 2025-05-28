@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Dener Fonseca
 
-<img src="Eu%20Dener%20Comic%20Art.png" alt="Minha Imagem" style="border-radius: 50px;" />
+<img src="Eu%20Dener%20Comic%20Art.png" alt="Minha Imagem" />
 
 </br>
 
