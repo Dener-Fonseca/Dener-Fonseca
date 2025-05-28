@@ -20,11 +20,11 @@ Sou estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack
   <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </div>
 
-
+<br/>
 
 Busco sempre aplicar meu aprendizado na construção de **projetos práticos** e sólidos, com o objetivo de aprimorar minhas habilidades técnicas e me preparar para o mercado de trabalho. Estou sempre compartilhando esses projetos por aqui e convido vocês a darem uma olhada!
 
-
+<br/>
 
 ## 🌐 Idiomas
 Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicação e abre portas para oportunidades internacionais. Por isso, mantenho um foco constante no aperfeiçoamento linguístico, buscando fluência e aplicabilidade prática nas minhas áreas de atuação.
@@ -34,7 +34,7 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
   <!-- Inglês -->
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="30" style="margin-right: 10px;"/>
-    &nbsp;<strong style="margin-right: 10px;">INGLÊS</strong>&nbsp;
+    &nbsp;&nbsp;<strong style="margin-right: 10px;">INGLÊS</strong>&nbsp;&nbsp;
     <span style="color: #007BFF;">●●●</span>
     <span style="color: #CCC;">○</span>
   </div>
@@ -42,7 +42,7 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
   <!-- Espanhol -->
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="30" style="margin-right: 10px;"/>
-    &nbsp;<strong style="margin-right: 10px;">ESPANHOL</strong>&nbsp;
+    &nbsp;&nbsp;<strong style="margin-right: 10px;">ESPANHOL</strong>&nbsp;&nbsp;
     <span style="color: #007BFF;">●●●</span>
     <span style="color: #CCC;">○</span>
   </div>
@@ -50,14 +50,14 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
   <!-- Japonês -->
   <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jp.svg" width="30" style="margin-right: 10px;"/>
-    &nbsp;<strong style="margin-right: 10px;">JAPONÊS</strong>&nbsp;
+    &nbsp;&nbsp;<strong style="margin-right: 10px;">JAPONÊS</strong>&nbsp;&nbsp;
     <span style="color: #007BFF;">●</span>
     <span style="color: #CCC;">○○○</span>
   </div>
 
 </div>
 
-
+<br/>
 
 ## 🔧 Experiência e Habilidades
 Antes de ingressar na tecnologia, atuei por **quatro anos como Mecânico Industrial**, onde desenvolvi as seguintes habilidades que são essenciais para minha jornada em tecnologia:
@@ -68,7 +68,7 @@ Antes de ingressar na tecnologia, atuei por **quatro anos como Mecânico Industr
 
 Essas habilidades têm sido fundamentais para minha transição para a **programação** e minha abordagem na resolução de problemas computacionais.
 
-
+<br/>
 
 ## ✨ Interesses
 Além do mundo da **tecnologia**, sou apaixonado por:
@@ -79,7 +79,7 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 - **Nutrição**
 - **Preservação ambiental**
 
-
+<br/>
 
 ## 📬 Conecte-se Comigo
 
