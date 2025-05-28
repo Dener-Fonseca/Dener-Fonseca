@@ -61,3 +61,35 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 ![Dener GitHub stats](https://github-readme-stats.vercel.app/api?username=Dener-Fonseca&show_icons=true&theme=tokyonight&border_color=FFFFFF)
 
 ![Dener Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Fonseca&layout=compact&show_icons=true&theme=tokyonight&border_color=FFFFFF)
+
+
+<div align="left">
+
+  <!-- Inglês -->
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="30" style="margin-right: 10px;"/>
+    <strong style="margin-right: 10px;">English</strong>
+    <span style="color: #007BFF;">●●●●●</span>
+    <span style="color: #CCC;">○○○</span>
+    <span style="margin-left: 10px;">Avançado</span>
+  </div>
+
+  <!-- Espanhol -->
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="30" style="margin-right: 10px;"/>
+    <strong style="margin-right: 10px;">Español</strong>
+    <span style="color: #007BFF;">●●●●●</span>
+    <span style="color: #CCC;">○○○</span>
+    <span style="margin-left: 10px;">Avançado</span>
+  </div>
+
+  <!-- Japonês -->
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jp.svg" width="30" style="margin-right: 10px;"/>
+    <strong style="margin-right: 10px;">日本語</strong>
+    <span style="color: #007BFF;">●●</span>
+    <span style="color: #CCC;">○○○○○○</span>
+    <span style="margin-left: 10px;">Básico</span>
+  </div>
+
+</div>
