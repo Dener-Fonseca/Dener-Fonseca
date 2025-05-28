@@ -1,5 +1,7 @@
 # 👋 Olá, eu me chamo Dener Fonseca
 
+![Minha Imagem](./Eu Dener Comic Art.png)
+
 </br>
 
 ## 🧑‍💻 Sobre Mim
