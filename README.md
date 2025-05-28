@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Dener Fonseca
 
-![Minha Imagem](Eu%20Dener%20Comic%20Art.png)
+<img src="Eu%20Dener%20Comic%20Art.png" alt="Minha Imagem" width="250" style="border-radius: 12px;" />
 
 </br>
 
@@ -91,6 +91,7 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/denerfonseca1995)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/denerfonseca1995)
 
+</br>
 
 ## 📊 Estatísticas do meu Github
 
