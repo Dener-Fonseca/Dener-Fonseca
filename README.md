@@ -57,6 +57,14 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
     <span style="color: #CCC;">○○○</span>
   </div>
 
+  <!-- Francês -->
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" width="30" style="margin-right: 10px;"/>
+  &nbsp;&nbsp;<strong style="margin-right: 10px;">FRANCÊS</strong>&nbsp;&nbsp;
+  <span style="color: #007BFF;">●</span>
+  <span style="color: #CCC;">○○○</span>
+</div>
+
 </div>
 
 <br/>
